@@ -31,9 +31,6 @@
 
 > Not: Uygulama içinden dış kabuk komutlarını çalıştırdığı için, çalıştığınız sistemde `iptables` komutunun mevcut ve erişilebilir olması gerekir.
 
-## 📷 Ekran Görüntüsü
-
-![GUI](./screenshot.png)
 
 ## 🛠 Kullanım
 
@@ -63,6 +60,4 @@
 
 Katkılar memnuniyetle karşılanır! Fork'layabilir, yeni özellikler ekleyip pull request gönderebilirsiniz.
 
-## 📄 Lisans
 
-Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına göz atın.
